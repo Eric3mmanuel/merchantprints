@@ -1,16 +1,16 @@
-MERCHANT PRINTS WEBSITE
+MERCHANT PRINTS — 5-PAGE BUSINESS WEBSITE
 
-Files:
-- index.html: complete website structure and content
-- styles.css: responsive layout and visual styling
-- script.js: mobile navigation, current year, WhatsApp quote form
-- assets/: logo crop and portfolio crops from the supplied Instagram screenshot
+Pages included:
+- index.html (Home)
+- about.html (About Us)
+- services.html (Services)
+- portfolio.html (Portfolio)
+- contact.html (Contact & WhatsApp enquiry form)
 
-To preview:
-Open index.html in a modern browser. For best local preview, use a simple static server; no build step or framework is required.
+Shared assets: assets/
+Stylesheet: styles.css
+Interactions: script.js
 
-Before publishing:
-- Confirm the business card offer (100 cards for KSh 1,000), including paper/finish, one- or two-sided printing, and any artwork fees.
-- Confirm the WhatsApp number shown in the supplied screenshot: +254 113 739 590.
-- Replace the cropped portfolio thumbnails with original full-resolution project photos where available.
-- Add any additional services, contact details, business hours or address that Merchant Prints confirms.
+To deploy: upload the complete merchant-prints-site folder, keeping the HTML files, styles.css, script.js and assets folder together.
+
+The quote form opens WhatsApp at +254 113 739 590 with the visitor's details and enquiry. Portfolio images are cropped reference images supplied for this website; replace with original project photos when available.
